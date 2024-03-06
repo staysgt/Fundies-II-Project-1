@@ -1,6 +1,6 @@
 # uk.ac.nulondon:project1
 
-Write your project description here...
+This project alters a png image.
 
 Java version 21
 
